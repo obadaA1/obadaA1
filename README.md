@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://obadaalsohli.com">
+  <a href="https://obadaalsehli.com">
     <img alt="portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-22c55e?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/obadaalsohli">
+  <a href="https://linkedin.com/in/obadaalsehli">
     <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:obadaalsohli@gmail.com">
