@@ -1,77 +1,47 @@
-<h1 align="center">Obada Alsehli</h1>
+# Obada Alsehli
 
-<p align="center">
-  <b>Applied AI & Backend Engineer</b>
-  <br/>
-  Istanbul · open to Saudi Arabia · CS @ Bahçeşehir University · graduating Jun 2026
-</p>
+**Software engineering · Applied AI · MSc student at İTÜ**
 
-<p align="center">
-  <a href="https://obadaalsehli.com">
-    <img alt="portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-22c55e?style=for-the-badge&logo=globe&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/obada-alsehli">
-    <img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:obadaalsohli@gmail.com">
-    <img alt="email" src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I build backend services and software around AI models: APIs, asynchronous document workflows, and integrations between components developed by a team.
 
-I build and operate applied AI systems end-to-end: model, API, container, tunnel, and monitoring.
+I’m pursuing an **MSc in Information & Communications Engineering at Istanbul Technical University (İTÜ)**, developing a research direction in image processing and medical imaging. My background is in software engineering: I completed my BSc at Bahçeşehir University in 2026.
 
-<table align="center">
-  <tr>
-    <td align="center"><h3>97%</h3>crash-rate reduction<br/>(Highway RL Agent)</td>
-    <td align="center"><h3>0.765</h3>macro-F1<br/>(Fashion Attribute Recognition)</td>
-    <td align="center"><h3>$0/mo</h3>cloud cost<br/>(UN1290 + Cloudflare Tunnel)</td>
-  </tr>
-</table>
+[Portfolio](https://obadaalsehli.com/) · [LinkedIn](https://www.linkedin.com/in/obada-alsehli/) · [Email](mailto:obadaalsohli@gmail.com)
 
----
+## Selected work
 
-### What I'm Shipping
+### [Fashion Attribute Recognition](https://github.com/obadaA1/fashion-attribute-recognition)
 
-| Project | What it is | Stack | Link |
-| --- | --- | --- | --- |
-| Fashion Attribute Recognition | Multi-head DINOv2 ViT-B/14 on a 13,355-image TextileNet subset; macro-F1 0.765 and +11.6 pp over ResNet-50. | PyTorch · DINOv2 · Marqo-FashionSigLIP · ViT | [repo](https://github.com/obadaA1/fashion-attribute-recognition) |
-| Squat Counter API | Pose-estimation rep counter and form metrics. Live API uses MediaPipe Pose Landmarker. | FastAPI · MediaPipe · Docker · Cloudflare Tunnel | [repo](https://github.com/obadaA1/squat_counter) |
-| Highway RL Agent | PPO in dense traffic; 97% crash-rate reduction and degenerate-policy analysis from reward break-even math. | PyTorch · Stable-Baselines3 · Gymnasium · highway-env | [repo](https://github.com/obadaA1/highway-rl-agent) |
-| UN1290 Live-Demo Infra | Self-hosted FastAPI services behind Cloudflare Tunnel; GHCR images, read-only root FS, dropped Linux capabilities. | Docker · Cloudflare Tunnel · systemd · GHCR | [repo](https://github.com/obadaA1/live-demo-infra) |
+Four classification heads for clothing **color, pattern, material, and texture**. I compared DINOv2 with ResNet-50, reporting mean test macro-F1 of **0.765 versus 0.649 against silver labels**, not human-verified ground truth. The project includes a FastAPI inference service with input validation and separate liveness and readiness checks.
 
----
+[Case study](https://obadaalsehli.com/work/fashion-attribute-recognition)
 
-### Currently Building
+### [IDMS — document workflows and retrieval](https://obadaalsehli.com/work)
 
-- Doc Q&A: multi-tenant RAG on self-hosted Supabase. Currently adding LangGraph orchestration.
-- IDMS: internal FastAPI, PostgreSQL, and Qdrant document system. Not public.
-- Master's applications: Boğaziçi DSAI, Koç AI, Sabancı DS, and BAU.
-- Selected work: applied AI and backend roles in Istanbul, Saudi Arabia, or remote.
+A completed **six-person graduation capstone**. I led backend architecture, worked on asynchronous document workflows, and integrated team-developed AI and retrieval services through shared service contracts. My contribution also included technical coordination across those boundaries.
 
----
+**FastAPI · PostgreSQL · Redis · Qdrant** — project overview linked above.
 
-### Hardware
+### [Highway RL Agent](https://github.com/obadaA1/highway-rl-agent)
 
-| Node | Specs | Workload |
-| --- | --- | --- |
-| IdeaPad 6 | Ryzen 7 · 16 GB · RTX 3050 | PyTorch training, RL experiments, local development |
-| UN1290 | i9-12900HK · 32 GB · 1 TB NVMe · 13 Docker containers | PostgreSQL, Redis, Ollama, Supabase, FastAPI demos |
-| Network | WireGuard · Tailscale · Cloudflare Tunnel | Private admin path plus public HTTPS for demos |
+A PPO experiment in `highway-env` that learned a degenerate slow-driving policy. I examined why the reward favored survival over the intended driving behavior—a reminder to evaluate what an agent does, not just the score it receives.
 
-Cost: $0/month.
+[Reward-design analysis](https://obadaalsehli.com/work/highway-rl-agent)
 
-No Grafana/Prometheus in production yet.
+### [Squat Counter API](https://github.com/obadaA1/squat_counter)
 
----
+Video-based repetition counting and movement metrics using **MediaPipe Pose Landmarker and FastAPI**, connecting pose estimation with signal processing and an upload API.
 
-### Stack
+## Current focus
 
-Python · TypeScript · SQL · Django · Django REST Framework · FastAPI · PostgreSQL · Redis · Qdrant · pgvector · Docker · Docker Compose · Supabase · GitHub Actions · React · Next.js · Tailwind CSS · PyTorch · MediaPipe · DINOv2 · Stable-Baselines3 · LangGraph.
+- **Study:** image analysis, pattern recognition, and mathematical methods for data analysis and machine learning at İTÜ.
+- **Research direction:** image processing and medical imaging, at an early stage.
+- **Engineering:** Python services, React applications, relational data modeling, and document-processing integrations.
 
----
+## Tools I work with
 
-<p align="center">
-  <a href="https://obadaalsehli.com">obadaalsehli.com</a> ·
-  <a href="https://www.linkedin.com/in/obada-alsehli">LinkedIn</a> ·
-  <a href="mailto:obadaalsohli@gmail.com">Email</a>
-</p>
+**Software:** Python · TypeScript · FastAPI · Django/DRF · React  
+**Data & infrastructure:** PostgreSQL · Redis · Qdrant · Docker  
+**Machine learning:** PyTorch · DINOv2 · MediaPipe · Stable-Baselines3
+
+More context, project limitations, and technical writing: **[obadaalsehli.com](https://obadaalsehli.com/)**.
