@@ -1,10 +1,13 @@
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/hero-dark.svg" /><img src="assets/showcase-v5/hero-light.svg" width="100%" alt="Obada Alsehli — backend engineering, applied AI, MSc at İTÜ. Counted commit totals are a scoped snapshot." /></picture>
 <p>
+<a href="https://obadaalsehli.com/" title="Explore project case studies and technical writing"><img src="assets/portfolio-cta-v1/portfolio-primary.svg" width="320" alt="Explore my portfolio →" /></a><br/>
+<sub>Project case studies · Technical writing</sub>
+</p>
+<p>
 <a href="https://github.com/obadaA1"><img src="assets/profile-social-stats-v1/github-mark.png" width="42" alt="GitHub profile" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/obada-alsehli/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-social-stats-v1/linkedin-white.png" /><img src="assets/profile-social-stats-v1/linkedin-blue.png" height="42" alt="LinkedIn profile" /></picture></a> &nbsp;
-<a href="https://obadaalsehli.com/"><img src="assets/profile-visuals-v1/portfolio.png" height="32" alt="Portfolio" /></a> &nbsp;
-<a href="mailto:obadaalsohli@gmail.com"><img src="assets/profile-visuals-v1/email.png" height="32" alt="Email" /></a>
+<a href="mailto:obadaalsohli@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-cta-v1/email-dark.svg" /><img src="assets/portfolio-cta-v1/email-light.svg" width="42" alt="Email" /></picture></a>
 </p>
 </div>
 
