@@ -4,7 +4,8 @@
 
 <p align="center">
 <a href="https://obadaalsehli.com/"><img src="assets/profile-visuals-v1/portfolio.png" height="32" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/obada-alsehli/"><img src="assets/profile-visuals-v1/linkedin.png" height="32" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/obada-alsehli/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-social-stats-v1/linkedin-white.png" /><img src="assets/profile-social-stats-v1/linkedin-blue.png" height="32" alt="LinkedIn profile" /></picture></a>
+<a href="https://github.com/obadaA1"><img src="assets/profile-social-stats-v1/github-mark.png" height="32" alt="GitHub profile" /></a>
 <a href="mailto:obadaalsohli@gmail.com"><img src="assets/profile-visuals-v1/email.png" height="32" alt="Email" /></a>
 </p>
 
@@ -45,6 +46,14 @@ Video-based repetition counting and movement metrics using **MediaPipe Pose Land
 <a href="https://github.com/obadaA1/squat_counter"><img src="assets/profile-visuals-v1/code.png" height="32" alt="Squat Counter source code" /></a>
 
 ---
+
+## Public commit activity
+
+![Public commit activity: 47 commits across 5 owned public non-fork repositories; default branches only.](assets/profile-social-stats-v1/commit-activity.svg)
+
+**Snapshot: 2026-10-27 06:50 UTC.** Commits attributed to my GitHub account on the default branches of my owned public, non-fork repositories, counted by author date. This is a static snapshot—not the full contribution graph; private repositories, other branches, and later commits are excluded.
+
+[Inspect the chart data](assets/profile-social-stats-v1/commit-activity.json) · [View my GitHub activity](https://github.com/obadaA1?tab=overview)
 
 ## Current focus
 
