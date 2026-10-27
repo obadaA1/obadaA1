@@ -1,84 +1,72 @@
 <div align="center">
-  <img src="assets/profile-template-v2/hero.svg" width="100%" alt="Obada Alsehli — Software Engineering · Applied AI" />
-  <p><b>MSc student at Istanbul Technical University (İTÜ)</b></p>
-  <a href="https://obadaalsehli.com/"><img src="assets/profile-visuals-v1/portfolio.png" height="32" alt="Portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/obada-alsehli/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-social-stats-v1/linkedin-white.png" /><img src="assets/profile-social-stats-v1/linkedin-blue.png" height="32" alt="LinkedIn profile" /></picture></a>
-  &nbsp;
-  <a href="https://github.com/obadaA1"><img src="assets/profile-social-stats-v1/github-mark.png" height="32" alt="GitHub profile" /></a>
-  &nbsp;
-  <a href="mailto:obadaalsohli@gmail.com"><img src="assets/profile-visuals-v1/email.png" height="32" alt="Email" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/hero-dark.svg" /><img src="assets/showcase-v5/hero-light.svg" width="100%" alt="Obada Alsehli — backend engineering, applied AI, MSc at İTÜ. Counted commit totals are a scoped snapshot." /></picture>
+<p>
+<a href="https://github.com/obadaA1"><img src="assets/profile-social-stats-v1/github-mark.png" width="42" alt="GitHub profile" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/obada-alsehli/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-social-stats-v1/linkedin-white.png" /><img src="assets/profile-social-stats-v1/linkedin-blue.png" height="42" alt="LinkedIn profile" /></picture></a> &nbsp;
+<a href="https://obadaalsehli.com/"><img src="assets/profile-visuals-v1/portfolio.png" height="32" alt="Portfolio" /></a> &nbsp;
+<a href="mailto:obadaalsohli@gmail.com"><img src="assets/profile-visuals-v1/email.png" height="32" alt="Email" /></a>
+</p>
 </div>
 
-I build the software around AI models: **backend services, asynchronous workflows, and integrations across service boundaries**.
+I build backend services and software around AI models: APIs, asynchronous document workflows, and integrations across service boundaries.
 
-I’m pursuing an **MSc in Information & Communications Engineering at İTÜ**, developing an early-stage research direction in image processing and medical imaging. I completed my **BSc in Software Engineering at Bahçeşehir University in 2026**.
+I’m pursuing an **MSc in Information & Communications Engineering at Istanbul Technical University (İTÜ)**, developing an early-stage research direction in image processing and medical imaging. I completed my **BSc in Software Engineering at Bahçeşehir University in 2026**.
 
-<h2 align="center">Selected work</h2>
-<p align="center">Computer vision · Backend systems · Reinforcement learning</p>
-
-### Fashion Attribute Recognition
-
-<a href="https://github.com/obadaA1/fashion-attribute-recognition"><img src="assets/profile-template-v2/fashion.png" width="100%" alt="Fashion Attribute Recognition — open the public source repository" /></a>
-
-Four heads for **color, pattern, material, and texture**. I compared DINOv2 with ResNet-50, reporting mean test macro-F1 of **0.765 versus 0.649 against silver labels**, not human-verified ground truth. The project includes a FastAPI inference service with upload validation and separate liveness and readiness checks.
-
-[Source code](https://github.com/obadaA1/fashion-attribute-recognition) · [Case study](https://obadaalsehli.com/work/fashion-attribute-recognition)
-
-### IDMS — backend architecture & document workflows
-
-A completed **six-person graduation capstone**. I led backend architecture, worked on asynchronous document workflows, and integrated **team-developed AI and retrieval services** through shared service contracts. My contribution also included technical coordination across those boundaries.
-
-**FastAPI · PostgreSQL · Redis · Qdrant**  
-[Project overview](https://obadaalsehli.com/work)
-
-### More public projects
+> - **Computer vision:** DINOv2 and ResNet-50 compared on four fashion-attribute heads, with silver-label evaluation.
+> - **Backend systems:** backend architecture and integration of teammate-developed AI in a six-person IDMS capstone.
+> - **Engineering judgment:** examining why a PPO agent’s reward favored slow driving over the intended task.
 
 <div align="center">
-  <a href="https://github.com/obadaA1/highway-rl-agent"><img src="assets/profile-template-v2/highway-cover.svg" width="48%" alt="Highway RL Agent — conceptual simulation illustration, not model output; open source repository" /></a>
-  &nbsp;
-  <a href="https://github.com/obadaA1/squat_counter"><img src="assets/profile-template-v2/squat.png" width="48%" alt="Squat Counter API — open source repository" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/tech-stack-dark.svg" /><img src="assets/showcase-v5/tech-stack-light.svg" width="100%" alt="Python, PyTorch, FastAPI, Django, TypeScript, React, PostgreSQL, Docker, Qdrant" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/combined-stats-dark.svg" /><img src="assets/showcase-v5/combined-stats-light.svg" width="100%" alt="1220 unique commits: 48 public and 1172 private; 111 active days, longest active run of 10 days. Scoped snapshot, not GitHub contribution totals." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/commits-monthly-dark.svg" /><img src="assets/showcase-v5/commits-monthly-light.svg" width="100%" alt="Monthly public and private commit counts within the scoped snapshot." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/activity-pulse-dark.svg" /><img src="assets/showcase-v5/activity-pulse-light.svg" width="100%" alt="Daily public and private commit activity; aggregate counts only." /></picture>
 </div>
 
-- **[Highway RL Agent](https://github.com/obadaA1/highway-rl-agent):** a PPO experiment in `highway-env` that learned a degenerate slow-driving policy. I examined reward misalignment rather than treating a higher score as successful driving. [Analysis](https://obadaalsehli.com/work/highway-rl-agent). Cover is a conceptual illustration, not a measured trajectory.
-- **[Squat Counter API](https://github.com/obadaA1/squat_counter):** video-based repetition counting and movement metrics using MediaPipe Pose Landmarker, signal processing, and FastAPI.
+<details>
+<summary><b>Commit snapshot scope & privacy</b></summary>
 
-<h2 align="center">Tools I work with</h2>
+**Snapshot: 2026-10-27 07:11 UTC.** 1,220 unique commits: **48 public + 1,172 private**, across accessible non-fork repositories’ default branches, counted by commit date UTC and deduplicated across repositories. The window is 2025-10-28–2026-10-27. Other branches and inaccessible repositories are excluded. This is not GitHub’s contribution-calendar total and does not update automatically. No private repository names, identifiers, messages or code are published.
 
-<p align="center">
-  <img src="assets/profile-visuals-v1/Python-Dark.svg" width="42" height="42" alt="Python" />
-  <img src="assets/profile-visuals-v1/TypeScript.svg" width="42" height="42" alt="TypeScript" />
-  <img src="assets/profile-visuals-v1/FastAPI.svg" width="42" height="42" alt="FastAPI" />
-  <img src="assets/profile-visuals-v1/Django.svg" width="42" height="42" alt="Django" />
-  <img src="assets/profile-visuals-v1/React-Dark.svg" width="42" height="42" alt="React" />
-  <img src="assets/profile-visuals-v1/PostgreSQL-Dark.svg" width="42" height="42" alt="PostgreSQL" />
-  <img src="assets/profile-visuals-v1/Redis-Dark.svg" width="42" height="42" alt="Redis" />
-  <img src="assets/profile-visuals-v1/Docker.svg" width="42" height="42" alt="Docker" />
-  <img src="assets/profile-visuals-v1/PyTorch-Dark.svg" width="42" height="42" alt="PyTorch" />
-</p>
+[Inspect aggregate chart data](assets/showcase-v5/commit-counts.json).
+
+</details>
+
+<h1 align="center">AI &amp; Computer Vision</h1>
+<div align="center">Model experiments, evaluation, and the software around inference</div>
+<br/>
+
+<a href="https://github.com/obadaA1/fashion-attribute-recognition"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/flagship-dark.svg" /><img src="assets/showcase-v5/flagship-light.svg" width="100%" alt="Fashion Attribute Recognition — DINOv2 versus ResNet-50, mean test macro-F1 0.765 versus 0.649 against silver labels, not human ground truth." /></picture></a>
+
+**Fashion Attribute Recognition:** mean test macro-F1 **0.765 versus 0.649 against silver labels**, not human-verified ground truth. FastAPI serving includes upload validation and separate liveness/readiness checks. [Code](https://github.com/obadaA1/fashion-attribute-recognition) · [Case study](https://obadaalsehli.com/work/fashion-attribute-recognition).
+
+<div align="center"><a href="https://github.com/obadaA1/highway-rl-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/highway-dark.svg" /><img src="assets/showcase-v5/highway-light.svg" width="49%" alt="Highway RL Agent: slow-driving PPO policy and reward-misalignment analysis." /></picture></a> &nbsp; <a href="https://github.com/obadaA1/squat_counter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/squat-dark.svg" /><img src="assets/showcase-v5/squat-light.svg" width="49%" alt="Squat Counter API: video repetition counting with MediaPipe and FastAPI." /></picture></a></div>
+
+[Highway RL analysis](https://obadaalsehli.com/work/highway-rl-agent): the agent learned a degenerate slow-driving policy, not successful autonomous driving. [Squat Counter](https://github.com/obadaA1/squat_counter) connects pose landmarks, signal processing, and an upload API for repetition counts and movement metrics.
+
+<h1 align="center">Backend &amp; Systems</h1>
+<div align="center">Document workflows, service contracts, and deployment patterns</div>
+<br/>
+
+<div align="center"><a href="https://obadaalsehli.com/work"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/idms-dark.svg" /><img src="assets/showcase-v5/idms-light.svg" width="49%" alt="IDMS: six-person capstone; my backend architecture and integration of teammate-built AI." /></picture></a> &nbsp; <a href="https://github.com/obadaA1/live-demo-infra"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showcase-v5/infra-dark.svg" /><img src="assets/showcase-v5/infra-light.svg" width="49%" alt="Live Demo Infrastructure: container deployment patterns and operational runbooks." /></picture></a></div>
+
+**IDMS:** I led backend architecture, worked on asynchronous document workflows, integrated **team-developed AI and retrieval services**, and coordinated service boundaries in our completed six-person capstone. [Project overview](https://obadaalsehli.com/work).
+
+**Live Demo Infrastructure:** documented Docker Compose deployment patterns, local-only service bindings, read-only containers, Cloudflare Tunnel ingress, and operational runbooks. [Repository](https://github.com/obadaA1/live-demo-infra).
+
+<details>
+<summary><b>More about my study and tools</b></summary>
+
+My MSc coursework includes image analysis, pattern recognition, and mathematical methods for data analysis and machine learning. Medical imaging is an early-stage research direction, not a claim of completed research or clinical results.
 
 **Software:** Python · TypeScript · FastAPI · Django/DRF · React  
 **Data & infrastructure:** PostgreSQL · Redis · Qdrant · Docker  
 **Machine learning:** PyTorch · DINOv2 · MediaPipe · Stable-Baselines3
 
-<details>
-<summary><b>Current study & research direction</b></summary>
-
-- Image analysis, pattern recognition, and mathematical methods for data analysis and machine learning at İTÜ.
-- Image processing and medical imaging as an early-stage research direction—not completed research results.
-
 </details>
-
-<h2 align="center">Public + private commit activity</h2>
-
-![Public and private commit counts, aggregated without private repository details.](assets/profile-template-v2/commit-activity.svg)
-
-**Snapshot: 2026-10-27 07:11 UTC.** Unique commits attributed to my account on default branches of accessible public and private non-fork repositories, grouped by commit date (UTC). Deduplicated across repositories. This is not GitHub’s contribution-calendar total; other branches and inaccessible repositories are excluded. Private repository details remain hidden.
-
-[Aggregate chart data](assets/profile-template-v2/commit-counts.json)
 
 ---
 
-<p align="center"><a href="https://obadaalsehli.com/"><b>Explore my portfolio and technical writing →</b></a></p>
+<p align="center"><a href="https://obadaalsehli.com/">Portfolio &amp; technical writing</a> · <a href="https://www.linkedin.com/in/obada-alsehli/">LinkedIn</a> · <a href="mailto:obadaalsohli@gmail.com">Email</a></p>
 
-<sub>Layout adapted from the <a href="https://github.com/Z0ZeroX/Awesome-Profile-README-Templates/blob/main/templates/showcase-collections/IvanMurzak.md">IvanMurzak showcase template</a>. <a href="assets/profile-template-v2/LICENSE.template.txt">Template license</a>.</sub>
+<sub>Visual composition adapted from the <a href="https://github.com/Z0ZeroX/Awesome-Profile-README-Templates/blob/main/templates/showcase-collections/IvanMurzak.md">IvanMurzak showcase</a>, with locally generated, personalized SVG panels. <a href="assets/showcase-v5/LICENSE.template.txt">Template license</a> · <a href="assets/showcase-v5/SOURCES.md">Sources</a>.</sub>
