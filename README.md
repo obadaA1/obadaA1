@@ -5,7 +5,6 @@
 <sub>Project case studies · Technical writing</sub>
 </p>
 <p>
-<a href="https://github.com/obadaA1"><img src="assets/profile-social-stats-v1/github-mark.png" width="42" alt="GitHub profile" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/obada-alsehli/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-social-stats-v1/linkedin-white.png" /><img src="assets/profile-social-stats-v1/linkedin-blue.png" height="42" alt="LinkedIn profile" /></picture></a> &nbsp;
 <a href="mailto:obadaalsohli@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-cta-v1/email-dark.svg" /><img src="assets/portfolio-cta-v1/email-light.svg" width="42" alt="Email" /></picture></a>
 </p>
